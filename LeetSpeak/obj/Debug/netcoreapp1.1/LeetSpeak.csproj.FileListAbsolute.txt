@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/Leetspeak.Solution/LeetSpeak/bin/Debug/netcoreapp1.1/LeetSpeak.deps.json
+/Users/Guest/Desktop/Leetspeak.Solution/LeetSpeak/bin/Debug/netcoreapp1.1/LeetSpeak.dll
+/Users/Guest/Desktop/Leetspeak.Solution/LeetSpeak/bin/Debug/netcoreapp1.1/LeetSpeak.pdb
+/Users/Guest/Desktop/Leetspeak.Solution/LeetSpeak/obj/Debug/netcoreapp1.1/LeetSpeak.AssemblyInfo.cs
+/Users/Guest/Desktop/Leetspeak.Solution/LeetSpeak/obj/Debug/netcoreapp1.1/LeetSpeak.dll
+/Users/Guest/Desktop/Leetspeak.Solution/LeetSpeak/obj/Debug/netcoreapp1.1/LeetSpeak.pdb
